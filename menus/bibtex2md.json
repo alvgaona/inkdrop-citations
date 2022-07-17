@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Insert bibtex",
+        "command": "bibtex2md:insert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "bibtex2md",
+          "submenu": [
+            {
+              "label": "Insert bibtex",
+              "command": "bibtex2md:insert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
