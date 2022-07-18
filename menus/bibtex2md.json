@@ -17,6 +17,10 @@
             {
               "label": "Insert bibtex",
               "command": "bibtex2md:insert"
+            },
+            {
+              "label": "Help",
+              "command": "bibtex2md:help"
             }
           ]
         }
