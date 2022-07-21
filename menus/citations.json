@@ -1,0 +1,55 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Citations",
+        "submenu": [
+          {
+            "label": "Insert",
+            "command": "citations:insert"
+          },
+          {
+            "label": "Append",
+            "command": "citations:append"
+          },
+          {
+            "label": "View",
+            "command": "citations:view"
+          },
+          {
+            "label": "Help",
+            "command": "citations:help"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "citations",
+          "submenu": [
+            {
+              "label": "Insert",
+              "command": "citations:insert"
+            },
+            {
+              "label": "Append",
+              "command": "citations:append"
+            },
+            {
+              "label": "View",
+              "command": "citations:view"
+            },
+            {
+              "label": "Help",
+              "command": "citations:help"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
