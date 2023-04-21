@@ -1,28 +1,54 @@
-textarea {
+.citations {
+   display: flex;
+   flex-direction: column;
+   min-width: 500px;
+   max-width: 100%;
+}
+
+.ui.form.citations textarea {
    resize: none;
    width: 75%;
    max-height: 240px;
 }
 
-select {
-   width: 75%;
+.ui.form.citations label {
+   margin-bottom: 1rem;
+}
+
+.ui.form.citations select {
+   max-width: 75%;
+   margin-bottom: 1rem;
+}
+
+.append-input {
+   min-width: 450px;
+   max-width: 50%;
+   min-height: 200px;
+   max-height: 200px;
+}
+
+.scrollable {
+   overflow-y: auto;
+   max-width: 75%;
+   max-height: 200px;
+   border-radius: 3%;
+
+   & > pre {
+      margin: 0;
+   }
 }
 
 .citations-dialog {
    width: 75%;
+
+   & > .content {
+      min-width: 500px;
+      max-width: 650px;
+   }
 }
 
 .citations-title {
-   color: blue;
-}
-
-.citations-view {
-   display: flex;
-   flex-direction: column;
-
-   & > label, textarea, select {
-      margin-bottom: 1rem;
-   }
+   width: 400px;
 }
 
 .citations-preview {

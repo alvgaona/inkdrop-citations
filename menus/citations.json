@@ -13,8 +13,8 @@
             "command": "citations:append"
           },
           {
-            "label": "View",
-            "command": "citations:view"
+            "label": "Preview",
+            "command": "citations:preview"
           },
           {
             "label": "Help",
@@ -40,8 +40,8 @@
               "command": "citations:append"
             },
             {
-              "label": "View",
-              "command": "citations:view"
+              "label": "Preview",
+              "command": "citations:preview"
             },
             {
               "label": "Help",
