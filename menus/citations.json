@@ -5,12 +5,8 @@
         "label": "Citations",
         "submenu": [
           {
-            "label": "Insert",
-            "command": "citations:insert"
-          },
-          {
-            "label": "Append",
-            "command": "citations:append"
+            "label": "Add",
+            "command": "citations:add"
           },
           {
             "label": "Preview",
@@ -32,12 +28,8 @@
           "label": "citations",
           "submenu": [
             {
-              "label": "Insert",
-              "command": "citations:insert"
-            },
-            {
-              "label": "Append",
-              "command": "citations:append"
+              "label": "Add",
+              "command": "citations:add"
             },
             {
               "label": "Preview",
