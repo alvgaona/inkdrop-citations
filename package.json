@@ -1,13 +1,19 @@
 {
-  "name": "bibtex2md",
-  "main": "./lib/bibtex2md",
+  "name": "citations",
+  "main": "./lib/index",
   "version": "0.0.1",
-  "description": "A bibtex to markdown plugin for Inkdrop",
-  "keywords": ["bibtex", "markdown", "bibliography"],
-  "repository": "https://github.com/inkdropapp/bibtex2md",
+  "description": "A citations plugin for Inkdrop",
+  "keywords": [
+    "bibtex",
+    "markdown",
+    "bibliography"
+  ],
+  "repository": "https://github.com/inkdropapp/inkdrop-citations",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "citation-js": "^0.6.3"
+  }
 }

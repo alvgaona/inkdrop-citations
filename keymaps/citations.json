@@ -1,0 +1,7 @@
+{
+  "body": {
+    "ctrl-alt-h": "citations:help",
+    "ctrl-alt-p": "citations:view",
+    "ctrl-alt-a": "citations:append"
+  }
+}

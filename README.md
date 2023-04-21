@@ -1,4 +1,3 @@
-# BibTex2Markdown
+# Inkdrop Citations
 
-An Inkdrop plugin to insert your BibTeX as Markdown references
-
+An Inkdrop plugin to insert your cite database as Markdown references/bibliography.
