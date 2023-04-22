@@ -9,6 +9,10 @@
             "command": "citations:add"
           },
           {
+            "label": "Renumber",
+            "command": "citations:renumber"
+          },
+          {
             "label": "Preview",
             "command": "citations:preview"
           },
@@ -30,6 +34,10 @@
             {
               "label": "Add",
               "command": "citations:add"
+            },
+            {
+              "label": "Renumber",
+              "command": "citations:renumber"
             },
             {
               "label": "Preview",
