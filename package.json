@@ -5,6 +5,11 @@
   "description": "A citations plugin for Inkdrop",
   "keywords": [
     "bibtex",
+    "biblatex",
+    "bibjson",
+    "csl",
+    "ris",
+    "citation",
     "markdown",
     "bibliography"
   ],
