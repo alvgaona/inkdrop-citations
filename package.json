@@ -13,10 +13,13 @@
     "markdown",
     "bibliography"
   ],
-  "repository": "https://github.com/alvgaona/inkdrop-citations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvgaona/inkdrop-citations"
+  },
   "license": "MIT",
   "engines": {
-    "inkdrop": "^5.3.1"
+    "inkdrop": "^5.x"
   },
   "dependencies": {
     "citation-js": "^0.6.3",
