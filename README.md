@@ -7,7 +7,7 @@ This plugin allows to easily manage your references in the Markdown files.
 - Paste any citation database and automatically append it in the Markdown file.
 - Supports multiple database formats, e.g., BibTeX, BibJSON, CSL-JSON, RIS.
 - Preview multiple citation formats, e.g., APA, Vancouver, Harvard.
-- Renumbers references if cites are out of order or missing a number.
+- Count references and cites.
 
 ## Install
 
