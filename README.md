@@ -21,12 +21,12 @@ There are only so many commands to use this plugin.
 
 1. You can preview the supported input and output formats.
 
-    ![Preview](img/preview.gif)
+    <!-- ![Preview](img/preview.gif) -->
 
 1. It is possible to append references by pasting the bibliography database content into the textbox,
 choosing the header text and the output format.
 
-    ![Add](img/count.gif)
+    <!-- ![Add](img/add.gif) -->
 
 1. Last and not least, you have the possibiity to count number of references.
 
