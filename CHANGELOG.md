@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.1 - First Release
+## 0.2.0 - First Release
 
 * Help dialog for users having problems with the plugin.
 * Insert a reference or bibligraphy section from a database input.
