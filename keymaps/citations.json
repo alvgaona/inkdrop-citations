@@ -3,6 +3,6 @@
     "ctrl-alt-h": "citations:help",
     "ctrl-alt-p": "citations:preview",
     "ctrl-alt-a": "citations:add",
-    "ctrl-alt-r": "citations:renumber"
+    "ctrl-alt-c": "citations:count"
   }
 }

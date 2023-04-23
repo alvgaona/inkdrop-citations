@@ -21,32 +21,28 @@ There are only so many commands to use this plugin.
 
 1. You can preview the supported input and output formats.
 
-    ![Preview](img/preview.png)
+    ![Preview](img/preview.gif)
 
 1. It is possible to append references by pasting the bibliography database content into the textbox,
 choosing the header text and the output format.
 
-    ![Add](img/add.png)
+    ![Add](img/add.gif)
 
-1. Last and not least, you have the possibiity to renumber references.
+1. Last and not least, you have the possibiity to count number of references.
 
-    ![Renumber](img/renumber.png)
+    ![Renumber](img/count.gif)
 
 ### Keyboard Shortcuts
 
 - `Ctrl+Alt A` or `⌃⌥A`: Append references.
-- `Ctrl+Alt R` or `⌃⌥A`: Renumber references.
 - `Ctrl+Alt P` or `⌃⌥P`: Preview formats.
+- `Ctrl+Alt C` or `⌃⌥C`: Count references.
 - `Ctrl+Alt H` or `⌃⌥H`: Help dialog.
 
 ## Tips & Tricks
 
-- Avoid modifiying the reference format and syntax as it may interfere with the plugin's commands.
-- Avoid modifying the title of the reference header as it may interfere with the plugin's commands.
+1. After you add your references you will find that each reference has a unique id of the form `citations-<randomId>`. Then, you'd need to use this id in any of the links within your article by doing `[1](#citations-Mw3R)`. This will render a link so when you click it, it'll redirect you to the corresponding reference.
 
-## Roadmap
+## License
 
-1. Ability to delete a specific or multiple cites by its number.
-2. Ability to load a cite database from the disk.
-
-## Authors
+Licensed under the [MIT License](LICENSE).

@@ -9,12 +9,12 @@
             "command": "citations:add"
           },
           {
-            "label": "Renumber",
-            "command": "citations:renumber"
-          },
-          {
             "label": "Preview",
             "command": "citations:preview"
+          },
+          {
+            "label": "Count",
+            "command": "citations:count"
           },
           {
             "label": "Help",
@@ -36,12 +36,12 @@
               "command": "citations:add"
             },
             {
-              "label": "Renumber",
-              "command": "citations:renumber"
-            },
-            {
               "label": "Preview",
               "command": "citations:preview"
+            },
+            {
+              "label": "Count",
+              "command": "citations:count"
             },
             {
               "label": "Help",

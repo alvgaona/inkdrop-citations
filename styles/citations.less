@@ -5,37 +5,13 @@
    max-width: 100%;
 }
 
-.ui.form.citations textarea {
-   resize: none;
-   width: 75%;
-   max-height: 240px;
+.citations-title {
+   width: 400px;
 }
 
-.ui.form.citations label {
-   margin-bottom: 1rem;
-}
-
-.ui.form.citations select {
-   max-width: 75%;
-   margin-bottom: 1rem;
-}
-
-.add-input {
-   min-width: 450px;
-   max-width: 50%;
-   min-height: 200px;
-   max-height: 200px;
-}
-
-.scrollable {
-   overflow-y: auto;
-   max-width: 75%;
-   max-height: 200px;
-   border-radius: 3%;
-
-   & > pre {
-      margin: 0;
-   }
+.citations-preview {
+   display: flex;
+   flex-direction: column;
 }
 
 .citations-dialog {
@@ -47,13 +23,35 @@
    }
 }
 
-.citations-title {
-   width: 400px;
+.ui.form.citations textarea {
+   resize: vertical;
+   width: 75%;
+   max-height: 240px;
+   font-family: monospace;
 }
 
-.citations-preview {
-   display: flex;
-   flex-direction: column;
+.ui.form.citations label {
+   margin-bottom: 1rem;
 }
 
+.ui.form.citations select {
+   max-width: 75%;
+   margin-bottom: 1rem;
+}
 
+.ui.ui.form.citations.add-input {
+   min-width: 450px;
+   max-width: 50%;
+   min-height: 200px;
+   max-height: 200px;
+}
+
+.ui.form.citations.preview-input {
+   max-width: 75%;
+   max-height: 200px;
+   border-radius: 3%;
+
+   & > pre {
+      margin: 0;
+   }
+}
