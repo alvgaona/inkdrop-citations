@@ -26,11 +26,11 @@ There are only so many commands to use this plugin.
 1. It is possible to append references by pasting the bibliography database content into the textbox,
 choosing the header text and the output format.
 
-    ![Add](img/add.gif)
+    ![Add](img/count.gif)
 
 1. Last and not least, you have the possibiity to count number of references.
 
-    ![Count](img/some.gif)
+    ![Count](img/count.gif)
 
 ### Keyboard Shortcuts
 
