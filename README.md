@@ -30,7 +30,7 @@ choosing the header text and the output format.
 
 1. Last and not least, you have the possibiity to count number of references.
 
-    ![Count](img/ok.gif)
+    ![Count](img/count.gif)
 
 ### Keyboard Shortcuts
 
