@@ -5,15 +5,21 @@
   "description": "A citations plugin for Inkdrop",
   "keywords": [
     "bibtex",
+    "biblatex",
+    "bibjson",
+    "csl",
+    "ris",
+    "citation",
     "markdown",
     "bibliography"
   ],
-  "repository": "https://github.com/inkdropapp/inkdrop-citations",
+  "repository": "https://github.com/alvgaona/inkdrop-citations",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
   },
   "dependencies": {
-    "citation-js": "^0.6.3"
+    "citation-js": "^0.6.3",
+    "hashids": "^2.2.11"
   }
 }

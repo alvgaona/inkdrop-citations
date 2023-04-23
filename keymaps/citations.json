@@ -1,7 +1,8 @@
 {
   "body": {
     "ctrl-alt-h": "citations:help",
-    "ctrl-alt-p": "citations:view",
-    "ctrl-alt-a": "citations:append"
+    "ctrl-alt-p": "citations:preview",
+    "ctrl-alt-a": "citations:add",
+    "ctrl-alt-c": "citations:count"
   }
 }
